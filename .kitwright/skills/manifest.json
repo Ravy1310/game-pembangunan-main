@@ -1,0 +1,14 @@
+{
+    "platforms": [
+        "agents"
+    ],
+    "skillVersions": [
+        {
+            "id": "unity-mcp-workflow",
+            "version": "1.0.2"
+        }
+    ],
+    "managedFiles": [
+        ".agents/skills/unity-mcp-workflow/SKILL.md"
+    ]
+}
